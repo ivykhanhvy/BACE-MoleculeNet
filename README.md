@@ -1,2 +1,2 @@
 # BACE-MoleculeNet
-Embed BACE dataset from MoleculeNet to ChemProp
+Embedded BACE dataset from MoleculeNet to ChemProp
